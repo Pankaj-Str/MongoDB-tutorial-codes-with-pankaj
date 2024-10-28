@@ -13,3 +13,7 @@
 * [MongoDB Aggregation $project](mongodb-aggregation-usdproject.md)
 * [MongoDB Aggregation $sort](mongodb-aggregation-usdsort.md)
 * [MongoDB Aggregation $match](mongodb-aggregation-usdmatch.md)
+* [MongoDB Aggregation $addFields](mongodb-aggregation-usdaddfields.md)
+* [MongoDB Aggregation $count](mongodb-aggregation-usdcount.md)
+* [MongoDB Aggregation $lookup](mongodb-aggregation-usdlookup.md)
+* [MongoDB Aggregation $out](mongodb-aggregation-usdout.md)
