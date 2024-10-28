@@ -7,3 +7,4 @@
 * [Finding Documents in MongoDB](finding-documents-in-mongodb.md)
 * [Updating Documents in MongoDB](updating-documents-in-mongodb.md)
 * [MongoDB mongosh Delete](mongodb-mongosh-delete.md)
+* [MongoDB Query Operators](mongodb-query-operators.md)
