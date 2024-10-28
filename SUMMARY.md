@@ -11,3 +11,5 @@
 * [MongoDB Aggregation $group](mongodb-aggregation-usdgroup.md)
 * [MongoDB Aggregation $limit](mongodb-aggregation-usdlimit.md)
 * [MongoDB Aggregation $project](mongodb-aggregation-usdproject.md)
+* [MongoDB Aggregation $sort](mongodb-aggregation-usdsort.md)
+* [MongoDB Aggregation $match](mongodb-aggregation-usdmatch.md)
