@@ -8,3 +8,6 @@
 * [Updating Documents in MongoDB](updating-documents-in-mongodb.md)
 * [MongoDB mongosh Delete](mongodb-mongosh-delete.md)
 * [MongoDB Query Operators](mongodb-query-operators.md)
+* [MongoDB Aggregation $group](mongodb-aggregation-usdgroup.md)
+* [MongoDB Aggregation $limit](mongodb-aggregation-usdlimit.md)
+* [MongoDB Aggregation $project](mongodb-aggregation-usdproject.md)
